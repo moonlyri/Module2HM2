@@ -1,0 +1,5 @@
+/Users/moonlyri/Documents/GitHub/Module2HM2/Shop/obj/Debug/net6.0/Shop.csproj.AssemblyReference.cache
+/Users/moonlyri/Documents/GitHub/Module2HM2/Shop/obj/Debug/net6.0/Shop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moonlyri/Documents/GitHub/Module2HM2/Shop/obj/Debug/net6.0/Shop.AssemblyInfoInputs.cache
+/Users/moonlyri/Documents/GitHub/Module2HM2/Shop/obj/Debug/net6.0/Shop.AssemblyInfo.cs
+/Users/moonlyri/Documents/GitHub/Module2HM2/Shop/obj/Debug/net6.0/Shop.csproj.CoreCompileInputs.cache
